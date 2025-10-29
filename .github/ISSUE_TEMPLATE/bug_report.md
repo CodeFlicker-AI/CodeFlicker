@@ -6,6 +6,9 @@ labels: ''
 assignees: ''
 
 ---
+  
+  ### Please view first this link https://github.com/CodeFlicker-AI/CodeFlicker/discussions/10
+
 
 <!-- ⚠️⚠️ Do Not Delete This! bug_report_template ⚠️⚠️ -->
 <!-- Please read our Rules of Conduct: https://opensource.microsoft.com/codeofconduct/ -->
@@ -19,7 +22,9 @@ Does this issue occur when all extensions are disabled?: Yes/No
 <!-- 🪓 If you answered No above, use 'Help: Start Extension Bisect' from Command Palette to try to identify the cause. -->
 <!-- 📣 Issues caused by an extension need to be reported directly to the extension publisher. The 'Help > Report Issue' dialog can assist with this. -->
 - App Version: 
-- OS Version: 
+- OS Version:
+- log detail:
+  Please view first this link https://github.com/CodeFlicker-AI/CodeFlicker/discussions/10
 
 Steps to Reproduce:
 
